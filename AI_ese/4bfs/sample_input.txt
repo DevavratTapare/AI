@@ -1,0 +1,6 @@
+Enter the 3x3 puzzle (use 0 for the blank tile):
+1 2 3
+4 0 6
+7 5 8
+  
+

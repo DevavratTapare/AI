@@ -1,0 +1,24 @@
+Enter number of words in vocabulary: 
+5
+
+Enter words:
+apple
+orange
+banana
+grape
+mango
+
+Enter word to check:
+apple
+Enter word to check:
+aplpe
+Enter word to check:
+appple
+Enter word to check:
+aple
+Enter word to check:
+orabge
+Enter word to check:
+mngo
+Enter word to check:
+grpae

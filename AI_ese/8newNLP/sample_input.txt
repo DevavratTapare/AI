@@ -1,0 +1,22 @@
+Similarity Check
+Words in Sentence 1:
+["I", "love", "eating", "an", "apple", "every", "morning"]
+→ Count = 7
+
+Words in Sentence 2:
+["She", "eats", "an", "apple", "in", "the", "morning"]
+→ Count = 7
+
+ Common Words
+Common words: "an", "apple", "morning"
+→ Common = 3
+
+ Jaccard Formula Application
+Total unique words = Count1 + Count2 - Common = 7 + 7 - 3 = 11
+
+Similarity = 3 / 11 ≈ 0.27
+
+
+
+
+
